@@ -1,0 +1,11 @@
+/Users/keephayden/Desktop/C#document/bin/Debug/netcoreapp3.1/C#document
+/Users/keephayden/Desktop/C#document/bin/Debug/netcoreapp3.1/C#document.deps.json
+/Users/keephayden/Desktop/C#document/bin/Debug/netcoreapp3.1/C#document.runtimeconfig.json
+/Users/keephayden/Desktop/C#document/bin/Debug/netcoreapp3.1/C#document.runtimeconfig.dev.json
+/Users/keephayden/Desktop/C#document/bin/Debug/netcoreapp3.1/C#document.dll
+/Users/keephayden/Desktop/C#document/bin/Debug/netcoreapp3.1/C#document.pdb
+/Users/keephayden/Desktop/C#document/obj/Debug/netcoreapp3.1/C#document.csprojAssemblyReference.cache
+/Users/keephayden/Desktop/C#document/obj/Debug/netcoreapp3.1/C#document.AssemblyInfoInputs.cache
+/Users/keephayden/Desktop/C#document/obj/Debug/netcoreapp3.1/C#document.AssemblyInfo.cs
+/Users/keephayden/Desktop/C#document/obj/Debug/netcoreapp3.1/C#document.dll
+/Users/keephayden/Desktop/C#document/obj/Debug/netcoreapp3.1/C#document.pdb
